@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is my first GIT Repository.
 <!--
 **swathyreghu2020/SwathyReghu2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
